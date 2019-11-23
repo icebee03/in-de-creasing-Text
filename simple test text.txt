@@ -1,0 +1,32 @@
+               s | s
+              is | si
+             mis | sim
+            pmis | simp
+           lpmis | simpl
+          elpmis | simple
+          elpmis | simple 
+        t elpmis | simple t
+       et elpmis | simple te
+      set elpmis | simple tes
+     tset elpmis | simple test
+     tset elpmis | simple test 
+   t tset elpmis | simple test t
+  et tset elpmis | simple test te
+ xet tset elpmis | simple test tex
+txet tset elpmis | simple test text
+ xet tset elpmis | simple test tex
+  et tset elpmis | simple test te
+   t tset elpmis | simple test t
+     tset elpmis | simple test 
+     tset elpmis | simple test
+      set elpmis | simple tes
+       et elpmis | simple te
+        t elpmis | simple t
+          elpmis | simple 
+          elpmis | simple
+           lpmis | simpl
+            pmis | simp
+             mis | sim
+              is | si
+               s | s
+                 |
