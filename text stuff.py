@@ -20,3 +20,4 @@ def remove(a):
 
 add(prompt)
 remove(prompt)
+input("\n\n\nPress any key to close script...")
