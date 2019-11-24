@@ -20,7 +20,7 @@ Enter a String, get it in-/de-creased in length in mere seconds!
 
 See "watch this.gif" for an idea of how it might look in action!
 
-Also if you download the "text stuff.exe" file, Windows verly likely will try not to execute it, since it doesn't 
+Also if you download the "text generator.exe" file, Windows verly likely will try not to execute it, since it doesn't 
 trust the source. If you want to execute it either way, you have to click on "_Further information_" that then lets
 you execute the .exe nonetheless.
 
