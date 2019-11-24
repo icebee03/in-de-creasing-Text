@@ -1,6 +1,21 @@
 # in-/de-creasing-Text
 Enter a String, get it in-/de-creased in length in mere seconds!
 
+          e | e
+         xe | ex
+        axe | exa
+       maxe | exam
+      pmaxe | examp
+     lpmaxe | exampl
+    elpmaxe | example
+     lpmaxe | exampl
+      pmaxe | examp
+       maxe | exam
+        axe | exa
+         xe | ex
+          e | e
+            
+            
 (Should work with any other datatype aswell)
 
 See "watch this.gif" and "example.txt" for an idea of how it might look!
